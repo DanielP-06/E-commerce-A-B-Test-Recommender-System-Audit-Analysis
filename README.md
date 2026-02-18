@@ -1,0 +1,2 @@
+# E-commerce-A-B-Test-Recommender-System-Audit-Analysis
+Forensic audit of an abandoned A/B test for a new e-commerce recommender system. This project evaluates its impact on conversion at product page, cart, and purchase stages. It assesses experiment integrity, analyzes user behavior, and uses Z-tests to confirm statistical significance. Findings indicate the new system negatively impacted conversion.
