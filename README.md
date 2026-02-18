@@ -66,4 +66,4 @@ To run this analysis locally or in Google Colab, follow these steps:
 5.  **Run Cells:** Execute the cells sequentially.
 
 ## Contact
-danielpineda_06²hotmail.com
+danielpineda_06@hotmail.com
